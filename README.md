@@ -1,6 +1,6 @@
 # Salma Benamar 👋
 
-**Étudiante en M2 Machine Learning · En recherche d'alternance à partir de septembre 2026**
+**Étudiante en M1 IA&Science de données en Santé · En recherche d'alternance à partir de septembre 2026**
 
 Passionnée par l'IA et la data science, je construis des modèles de machine learning et j'explore des problèmes concrets à travers mes projets académiques. Toujours curieuse, toujours en train d'apprendre.
 
