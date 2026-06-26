@@ -56,6 +56,7 @@ Passionnée par l'IA et la data science, je construis des modèles de machine le
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Benamar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-benamar)
 [![Email](https://img.shields.io/badge/Email-salmabenamar2005%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:salmabenamar2005@gmail.com)
+[![Mobile](07-49-96-39-56)
 
 ---
 
