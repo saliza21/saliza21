@@ -45,9 +45,7 @@ Passionnée par l'IA et la data science, je construis des modèles de machine le
 ---
 
 ## 📚 Formation
-
-- 🎓 **M2 Machine Learning** — PST&B Paris *(sept. 2026 – mai 2027)*
-- 🎓 **M1 IA & Data Science en santé** — Université de Caen Normandie *(2025–2026)*
+- 🎓 **M1 / M2  IA & Data Science en santé** — Université de Caen Normandie *(2025–2027)*
 - 🎓 **Licence Informatique** — Université de Caen Normandie *(2023–2025)*
 
 ---
