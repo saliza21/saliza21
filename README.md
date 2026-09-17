@@ -1,6 +1,6 @@
 # Salma Benamar 👋
 
-**Étudiante en M2 IA & Sciences des données en Santé · En recherche d'un stage de fin d'études (4 à 6 mois) à partir de mars/avril 2026**
+**Étudiante en M2 IA & Sciences des données en Santé · En recherche d'un stage de fin d'études (4 à 6 mois) à partir de mars/avril 2027**
 
 Passionnée par l'IA et la data science, je construis des modèles de machine learning et j'explore des problèmes concrets à travers mes projets académiques. Toujours curieuse, toujours en train d'apprendre.
 
@@ -74,4 +74,4 @@ Français (Courant) · Anglais (B2) · Arabe (Maternelle / C2)
 
 ---
 
-*🔍 Ouverte aux stages en IA / Computer Vision / Data Science (4 à 6 mois) à partir de mars/avril 2026*
+*🔍 Ouverte aux stages en IA / Computer Vision / Data Science (4 à 6 mois) à partir de mars/avril 2027*
